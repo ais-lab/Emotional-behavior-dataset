@@ -7,7 +7,7 @@ The dataset was created as c3d files using a motion capture system and output as
 All motionfiles contain T-pose movements. If you use these, cut the beginning of the animation in unity.  
 Those motions are categorized by six emotions, anger, dislike, fear, happiness, sadness and surprise.  
 
-###sample
+### sample
 ![demo](https://github.com/ais-lab/Emotional-behavior-dataset/blob/main/sample.gif)
 
 
